@@ -1,4 +1,4 @@
-first, connect the rfid/nfc scanner to rpi using these pins:
+to use this code first connect the rfid/nfc scanner to rpi using these pins:
 3v3 - pin 1
 rst - pin 22
 gnd - pin 6
